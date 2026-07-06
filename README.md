@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hasan 👋
+# Hi, I'm Hasan Mohamed👋
 ### Aspiring ML Engineer | EEE Student | Documenting My Learning Journey
 
 </div>
