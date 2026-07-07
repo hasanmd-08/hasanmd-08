@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1280"
+     height="640"
+     viewBox="0 0 1280 640">
+
+    <defs>
+
+        <!-- Aurora Gradients -->
+        <radialGradient id="cyanGlow">
+            <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.55"/>
+            <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+        </radialGradient>
+
+        <radialGradient id="purpleGlow">
+            <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.45"/>
+            <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+        </radialGradient>
+
+        <!-- Blur -->
+        <filter id="blur60">
+        <feGaussianBlur stdDeviation="75"/>
+        </filter>
+
+        <!-- Blueprint Grid -->
+        <pattern id="blueprintGrid"
+                 width="40"
+                 height="40"
+                 patternUnits="userSpaceOnUse">
+
+            <path
+                d="M40 0 L0 0 0 40"
+                fill="none"
+                stroke="white"
+                stroke-opacity="0.05"
+                stroke-width="1"/>
+
+        </pattern>
+    <filter id="glassShadow"
+        x="-20%"
+        y="-20%"
+        width="140%"
+        height="140%">
+
+    <feDropShadow
+        dx="0"
+        dy="10"
+        stdDeviation="18"
+        flood-color="#000000"
+        flood-opacity="0.35"/>
+    </filter>
+
+        <style><![CDATA[
+
+.title{
+    font-family: Inter, Arial, sans-serif;
+    font-size:42px;
+    font-weight:700;
+    fill:white;
+}
+
+.subtitle{
+    font-family: Inter, Arial, sans-serif;
+    font-size:20px;
+    font-weight:500;
+    fill:#8B949E;
+}
+
+.sectionTitle{
+    font-family: Inter, Arial, sans-serif;
+    font-size:15px;
+    font-weight:600;
+    fill:#58A6FF;
+}
+
+.body{
+    font-family: Inter, Arial, sans-serif;
+    font-size:14px;
+    fill:#C9D1D9;
+}
+.skillText{
+    font-family: Inter, Arial, sans-serif;
+    font-size:13px;
+    font-weight:600;
+    fill:#E6EDF3;
+    text-anchor:middle;
+    dominant-baseline:middle;
+}
+
+.skillPill{
+    fill:#21262D;
+    stroke:#484F58;
+    stroke-width:1;
+}
+.codeTitle{
+    font-family: Consolas, "Courier New", monospace;
+    font-size:14px;
+    fill:#C9D1D9;
+    font-weight:600;
+}
+
+.code{
+    font-family: Consolas, "Courier New", monospace;
+    font-size:14px;
+    fill:#E6EDF3;
+}
+
+.keyword{
+    fill:#FF7B72;
+    font-weight:600;
+}
+
+.function{
+    fill:#D2A8FF;
+}
+
+.variable{
+    fill:#79C0FF;
+}
+
+.number{
+    fill:#A5D6FF;
+}
+
+.comment{
+    fill:#8B949E;
+    font-style:italic;
+}
+]]></style>
+
+<filter id="textGlow"
+        x="-50%"
+        y="-50%"
+        width="200%"
+        height="200%">
+
+    <feGaussianBlur
+        in="SourceGraphic"
+        stdDeviation="4"
+        result="blur"/>
+
+    <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+
+</filter>
+
+
+    </defs>
+
+    <!-- Background -->
+    <g id="background">
+        <rect
+            width="1280"
+            height="640"
+            fill="#0D1117"/>
+    </g>
+
+    <!-- Aurora -->
+    <g id="aurora">
+
+        <circle
+            cx="980"
+            cy="180"
+            r="240"
+            fill="url(#cyanGlow)"
+            filter="url(#blur60)"/>
+
+        <circle
+            cx="340"
+            cy="500"
+            r="220"
+            fill="url(#purpleGlow)"
+            filter="url(#blur60)"/>
+
+    </g>
+
+    <!-- Blueprint Grid -->
+    <g id="grid">
+
+        <rect
+            width="1280"
+            height="640"
+            fill="url(#blueprintGrid)"/>
+
+    </g>
+
+    <!-- Left Panel -->
+    <g id="left-panel">
+
+    <rect 
+        x="48"
+        y="48"
+        width="480"
+        height="544"
+        rx="28"
+        fill="white"
+        fill-opacity="0.04"
+        stroke="white"
+        stroke-opacity="0.07"
+        stroke-width="1"
+        filter="url(#glassShadow)"
+    />
+    <animate
+        attributeName="opacity"
+        values="0.18;0.34;0.18"
+        dur="4s"
+        repeatCount="indefinite"/>
+    
+   <!-- Glow Layer -->
+<text
+    x="80"
+    y="110"
+    class="title"
+    fill="#22D3EE"
+    filter="url(#textGlow)"
+    opacity="0.15">
+
+    <animate
+        attributeName="opacity"
+        values="0.10;0.28;0.10"
+        dur="3.5s"
+        repeatCount="indefinite"/>
+
+    HASAN MOHAMED
+
+</text>
+
+<!-- Main Text -->
+<text
+    x="80"
+    y="110"
+    class="title">
+
+    HASAN MOHAMED
+
+</text>
+    <text
+        x="80"
+        y="145"
+        class="subtitle">
+        Aspiring AI/ML Engineer
+    </text>
+
+    <line
+        x1="80"
+        y1="175"
+        x2="485"
+        y2="175"
+        stroke="#30363D"
+        stroke-width="1"/>
+
+    </g>
+
+    <!-- Identity -->
+    <text x="80" y="215" class="sectionTitle">
+        Identity
+    </text>
+
+    <text x="80" y="245" class="body">
+        • Research-Driven Learner
+    </text>
+
+    <text x="80" y="270" class="body">
+        • Learning to Engineer Intelligent Solutions
+    </text>
+
+    <text x="80" y="295" class="body">
+        • Technical Writer
+    </text> 
+
+    <!-- Mission -->
+    <text x="80" y="350" class="sectionTitle">
+        Mission
+    </text>
+
+    <text x="80" y="380" class="body">
+        • Building AI systems that solve
+    </text>
+    <text x="80" y="405" class="body">
+        • real-world problems through
+    </text>
+    <text x="80" y="430" class="body">
+        • continuous learning.
+    </text>
+
+    <!-- Skills -->
+    <text x="80" y="485" class="sectionTitle">
+        Skills
+    </text>
+
+    <!-- Row 1 -->
+    <rect x="80" y="505" width="86" height="32" rx="16" class="skillPill"/>
+    <text x="123" y="521" class="skillText">Python</text>
+
+    <rect x="182" y="505" width="88" height="32" rx="16" class="skillPill"/>
+    <text x="226" y="521" class="skillText">NumPy</text>
+    <rect x="286" y="505" width="94" height="32" rx="16" class="skillPill"/>
+    <text x="333" y="521" class="skillText">Pandas</text>
+
+    <!-- Row 2 -->
+    <rect x="80" y="551" width="60" height="32" rx="16" class="skillPill"/>
+    <text x="110" y="567" class="skillText">Git</text>
+
+    <rect x="156" y="551" width="96" height="32" rx="16" class="skillPill"/>
+    <text x="204" y="567" class="skillText">GitHub</text>
+
+    <rect x="268" y="551" width="150" height="32" rx="16" class="skillPill"/>
+    <text x="343" y="567" class="skillText">Data Analysis</text>
+
+
+    <!-- Right Panel -->
+    <g id="right-panel">
+
+    <rect
+        x="570"
+        y="48"
+        width="630"
+        height="544"
+        rx="18"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-opacity="0.05"
+        stroke-width="1"
+        filter="url(#glassShadow)"/>
+
+    <!-- Code Editor -->
+<g id="code-editor">
+
+    <rect
+        x="590"
+        y="72"
+        width="590"
+        height="170"
+        rx="18"
+        fill="#161B22"
+        fill-opacity="0.65"
+        stroke="#30363D"/>
+
+    <line
+        x1="590"
+        y1="118"
+        x2="1170"
+        y2="118"
+        stroke="#30363D"/>
+
+        <!-- Window Buttons -->
+    <circle cx="615" cy="102" r="5" fill="#FF5F56"/>
+    <circle cx="633" cy="102" r="5" fill="#FFBD2E"/>
+    <circle cx="651" cy="102" r="5" fill="#27C93F"/>
+
+    
+    <circle
+    cx="1115"
+    cy="107"
+    r="3"
+    fill="#22C55E">
+
+    <animate
+        attributeName="opacity"
+        values="1;0.3;1"
+        dur="1.5s"
+        repeatCount="indefinite"/>
+
+</circle>
+
+<text
+    x="1125"
+    y="111"
+    font-size="12"
+    fill="#22C55E">
+
+    Training...
+
+</text>
+
+
+
+    <text x="610" y="140" class="code">
+    <tspan class="keyword">def</tspan>
+    <tspan class="function"> preprocess</tspan>
+    <tspan>(data):</tspan>
+    </text>
+
+    <text x="630" y="165" class="code">
+    <tspan class="keyword">return</tspan>
+    <tspan class="function"> normalize</tspan>
+    <tspan>(data)</tspan>
+    </text>
+
+    <text x="610" y="200" class="code">
+    <tspan class="variable">model</tspan>
+    <tspan>.fit(train_x, train_y)</tspan>
+    </text>
+
+    <text x="610" y="228" class="code">
+    <tspan class="variable">accuracy</tspan>
+    <tspan> = </tspan>
+    <tspan class="number">0.947</tspan>
+    </text>
+
+    <rect
+    x="610"
+    y="170"
+    width="535"
+    height="18"
+    rx="4"
+    fill="#58A6FF"
+    opacity="0.08">
+
+    <animate
+        attributeName="y"
+        values="170;190;210;190;170"
+        dur="8s"
+        repeatCount="indefinite"/>
+
+    </rect>
+
+    <text
+    x="1045"
+    y="220"
+    class="code"
+    fill="#E6EDF3">
+
+    |
+
+    <animate
+        attributeName="opacity"
+        values="1;0;1"
+        dur="1s"
+        repeatCount="indefinite"/>
+
+</text>
+    <text
+    x="1128"
+    y="224"
+    font-size="10"
+    fill="#22D3EE">
+
+    █
+
+    <animate
+        attributeName="opacity"
+        values="1;0;1"
+        dur="0.9s"
+        repeatCount="indefinite"/>
+
+</text>
+    <!-- Progress Track -->
+<rect
+    x="610"
+    y="235"
+    width="540"
+    height="4"
+    rx="2"
+    fill="#30363D"/>
+
+<!-- Progress Fill -->
+<rect
+    x="610"
+    y="235"
+    width="0"
+    height="4"
+    rx="2"
+    fill="#22D3EE">
+
+    <animate
+        attributeName="width"
+        values="0;540;0"
+        dur="10s"
+        repeatCount="indefinite"/>
+
+</rect>
+
+    <!-- Terminal Panel -->
+<g id="terminal">
+
+    <rect
+        x="605"
+        y="210"
+        width="550"
+        height="22"
+        rx="4"
+        fill="#0D1117"
+        stroke="#30363D"/>
+
+    <text
+        x="615"
+        y="224"
+        font-size="10"
+        font-family="Consolas, monospace"
+        fill="#7EE787">
+
+        <tspan>
+
+Epoch 247/300
+
+<animate
+    attributeName="opacity"
+    values="1;0;0;1"
+    dur="8s"
+    repeatCount="indefinite"/>
+
+</tspan>
+
+<tspan dx="18">
+
+Loss: 0.021
+
+<animate
+    attributeName="opacity"
+    values="0;1;1;0"
+    begin="2s"
+    dur="8s"
+    repeatCount="indefinite"/>
+
+</tspan>
+
+<tspan dx="18">
+
+Accuracy: 98.7%
+
+<animate
+    attributeName="opacity"
+    values="0;0;1;1"
+    begin="4s"
+    dur="8s"
+    repeatCount="indefinite"/>
+
+</tspan>
+
+    </text>
+
+</g>
+    
+
+    
+    <!-- Bottom Left: Neural Network -->
+    <g id="neural-network-card">
+    <circle
+    cx="602"
+    cy="293"
+    r="3"
+    fill="#22C55E"/> 
+
+      <!-- Card -->
+      <rect
+          x="590"
+          y="275"
+          width="280"
+          height="130"
+          rx="18"
+          fill="none"
+          stroke="#FFFFFF"
+          stroke-opacity="0.05">
+    <animate
+    attributeName="fill-opacity"
+    values="0.56;0.66;0.56"
+    dur="5s"
+    repeatCount="indefinite"/>
+    </rect>
+      <!-- Title -->
+      <text
+          x="610"
+          y="298"
+          class="sectionTitle"
+          fill="#E6EDF3">
+          Neural Network
+      </text>
+
+      <!-- Subtitle -->
+      <text
+          x="610"
+          y="314"
+          font-size="11"
+          fill="#7D8590">
+          4 → 5 → 3 Architecture
+      </text>
+
+      <!-- Connections -->
+      <g stroke="#22D3EE"
+         stroke-width="1.2"
+         stroke-opacity="0.28">
+
+        <!-- Input -> Hidden -->
+        <line x1="635" y1="332" x2="705" y2="324"/>
+        <line x1="635" y1="332" x2="705" y2="344"/>
+        <line x1="635" y1="332" x2="705" y2="364"/>
+        <line x1="635" y1="332" x2="705" y2="384"/>
+        <line x1="635" y1="332" x2="705" y2="404"/>
+
+        <line x1="635" y1="356" x2="705" y2="324"/>
+        <line x1="635" y1="356" x2="705" y2="344"/>
+        <line x1="635" y1="356" x2="705" y2="364"/>
+        <line x1="635" y1="356" x2="705" y2="384"/>
+        <line x1="635" y1="356" x2="705" y2="404"/>
+
+        <line x1="635" y1="380" x2="705" y2="324"/>
+        <line x1="635" y1="380" x2="705" y2="344"/>
+        <line x1="635" y1="380" x2="705" y2="364"/>
+        <line x1="635" y1="380" x2="705" y2="384"/>
+        <line x1="635" y1="380" x2="705" y2="404"/>
+
+        <line x1="635" y1="404" x2="705" y2="324"/>
+        <line x1="635" y1="404" x2="705" y2="344"/>
+        <line x1="635" y1="404" x2="705" y2="364"/>
+        <line x1="635" y1="404" x2="705" y2="384"/>
+        <line x1="635" y1="404" x2="705" y2="404"/>
+
+        <!-- Hidden -> Output -->
+        <line x1="705" y1="324" x2="775" y2="344"/>
+        <line x1="705" y1="324" x2="775" y2="364"/>
+        <line x1="705" y1="324" x2="775" y2="384"/>
+
+        <line x1="705" y1="344" x2="775" y2="344"/>
+        <line x1="705" y1="344" x2="775" y2="364"/>
+        <line x1="705" y1="344" x2="775" y2="384"/>
+
+        <line x1="705" y1="364" x2="775" y2="344"/>
+        <line x1="705" y1="364" x2="775" y2="364"/>
+        <line x1="705" y1="364" x2="775" y2="384"/>
+
+        <line x1="705" y1="384" x2="775" y2="344"/>
+        <line x1="705" y1="384" x2="775" y2="364"/>
+        <line x1="705" y1="384" x2="775" y2="384"/>
+
+        <line x1="705" y1="404" x2="775" y2="344"/>
+        <line x1="705" y1="404" x2="775" y2="364"/>
+        <line x1="705" y1="404" x2="775" y2="384"/>
+
+      </g>
+
+      <!-- Nodes -->
+      <g fill="#0D1117"
+         stroke="#22D3EE"
+         stroke-width="2">
+
+        <!-- Input -->
+        <circle cx="635" cy="332" r="6"/>
+        <circle cx="635" cy="356" r="6"/>
+        <circle cx="635" cy="380" r="6"/>
+        <circle cx="635" cy="404" r="6"/>
+
+        <!-- Hidden Layer -->
+
+<circle cx="705" cy="324" r="6" fill="#0D1117" stroke="#22D3EE" stroke-width="2">
+    <animate attributeName="r"
+             values="6;7.5;6"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+</circle>
+
+<circle cx="705" cy="344" r="6" fill="#0D1117" stroke="#22D3EE" stroke-width="2">
+    <animate attributeName="r"
+             values="6;7.5;6"
+             begin="0.3s"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+</circle>
+
+<circle cx="705" cy="364" r="6" fill="#0D1117" stroke="#22D3EE" stroke-width="2">
+    <animate attributeName="r"
+             values="6;7.5;6"
+             begin="0.6s"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+</circle>
+
+<circle cx="705" cy="384" r="6" fill="#0D1117" stroke="#22D3EE" stroke-width="2">
+    <animate attributeName="r"
+             values="6;7.5;6"
+             begin="0.9s"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+</circle>
+
+<circle cx="705" cy="404" r="6" fill="#0D1117" stroke="#22D3EE" stroke-width="2">
+    <animate attributeName="r"
+             values="6;7.5;6"
+             begin="1.2s"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+</circle>
+
+       <circle cx="775" cy="344" r="6" fill="#0D1117" stroke="#7EE787" stroke-width="2">
+    <animate attributeName="fill"
+             values="#0D1117;#22D3EE;#0D1117"
+             dur="2s"
+             repeatCount="indefinite"/>
+</circle>
+
+<circle cx="775" cy="364" r="6" fill="#0D1117" stroke="#7EE787" stroke-width="2">
+    <animate attributeName="fill"
+             values="#0D1117;#22D3EE;#0D1117"
+             begin="0.5s"
+             dur="2s"
+             repeatCount="indefinite"/>
+</circle>
+
+<circle cx="775" cy="384" r="6" fill="#0D1117" stroke="#7EE787" stroke-width="2">
+    <animate attributeName="fill"
+             values="#0D1117;#22D3EE;#0D1117"
+             begin="1s"
+             dur="2s"
+             repeatCount="indefinite"/>
+</circle>
+
+      </g>
+
+      <!-- Data Packet 1 -->
+<circle r="2.3" fill="#22D3EE" opacity="0.95">
+
+    <animateMotion
+        dur="2.5s"
+        repeatCount="indefinite"
+        path="M635 332 L705 364 L775 344"/>
+
+</circle>
+
+<!-- Data Packet 2 -->
+<circle r="2.3" fill="#7EE787" opacity="0.85">
+
+    <animateMotion
+        dur="2.8s"
+        begin="0.9s"
+        repeatCount="indefinite"
+        path="M635 380 L705 344 L775 384"/>
+
+</circle>
+
+<!-- Data Packet 3 -->
+<circle r="2.3" fill="#A78BFA" opacity="0.80">
+
+    <animateMotion
+        dur="3.2s"
+        begin="1.6s"
+        repeatCount="indefinite"
+        path="M635 356 L705 384 L775 364"/>
+
+</circle>
+
+   </g> 
+
+   <!-- Bottom Right: Matrix Math -->
+<g id="matrix-math-card">
+<circle
+    cx="902"
+    cy="293"
+    r="3"
+    fill="#22C55E"/> 
+
+  <!-- Card -->
+  <rect
+      x="900"
+      y="275"
+      width="280"
+      height="130"
+      rx="18"
+      fill="none"
+      stroke="#FFFFFF"
+      stroke-opacity="0.05"/>
+
+  <!-- Title -->
+  <text
+      x="910"
+      y="298"
+      class="sectionTitle"
+      fill="#E6EDF3">
+      Matrix Math
+  </text>
+
+  <!-- Subtitle -->
+  <text
+      x="910"
+      y="314"
+      font-size="11"
+      fill="#7D8590">
+      Model Performance Metrics
+  </text>
+
+  <!-- Metrics -->
+  <text x="910" y="335" font-size="11" fill="#7EE787">Accuracy</text>
+  <text x="1025" y="335" font-size="11" fill="#E6EDF3">98.7%</text>
+
+  <text x="910" y="352" font-size="11" fill="#7EE787">Loss</text>
+  <text x="1025" y="352" font-size="11" fill="#E6EDF3">0.021</text>
+
+  <text x="910" y="369" font-size="11" fill="#7EE787">Epoch</text>
+  <text x="1025" y="369" font-size="11" fill="#E6EDF3">247</text>
+
+  <text x="910" y="386" font-size="11" fill="#7EE787">LR</text>
+  <text x="1025" y="386" font-size="11" fill="#E6EDF3">0.0005</text>
+
+  <!-- Mini Matrix -->
+  <g font-family="monospace" font-size="10" fill="#58A6FF" opacity="0.9">
+
+    <text x="1085" y="335">1.02  0.31  0.77</text>
+    <text x="1085" y="352">0.52  1.84  0.13</text>
+    <text x="1085" y="369">0.09  0.67  1.41</text>
+
+  </g>
+
+  <!-- Subtle grid accent -->
+  <g stroke="#22D3EE" stroke-opacity="0.08">
+    <line x1="900" y1="320" x2="1170" y2="320"/>
+    <line x1="900" y1="345" x2="1170" y2="345"/>
+    <line x1="900" y1="370" x2="1170" y2="370"/>
+  </g>
+
+</g>
+   <!-- Bottom: ML Pipeline -->
+<g id="ml-pipeline-card">
+<circle
+    cx="602"
+    cy="445"
+    r="3"
+    fill="#22C55E"/> De
+
+  <!-- Card -->
+  <rect
+      x="590"
+      y="425"
+      width="590"
+      height="150"
+      rx="18"
+      fill="none"
+      stroke="#FFFFFF"
+      stroke-opacity="0.05"/>
+  <!-- Title -->
+  <text
+      x="610"
+      y="450"
+      class="sectionTitle"
+      fill="#E6EDF3">
+      Machine Learning Pipeline
+  </text>
+
+  <text
+      x="610"
+      y="466"
+      font-size="11"
+      fill="#7D8590">
+      End-to-End Model Development Workflow
+  </text>
+
+  <!-- Pipeline Connections -->
+  <g stroke="#22D3EE"
+     stroke-width="2"
+     stroke-linecap="round"
+     stroke-opacity="0.6"
+     fill="none">
+
+      <line x1="705" y1="520" x2="765" y2="520"/>
+      <line x1="825" y1="520" x2="885" y2="520"/>
+      <line x1="945" y1="520" x2="1005" y2="520"/>
+      <line x1="1065" y1="520" x2="1125" y2="520"/>
+
+      <!-- Arrowheads -->
+      <polyline points="760,515 765,520 760,525"/>
+      <polyline points="880,515 885,520 880,525"/>
+      <polyline points="1000,515 1005,520 1000,525"/>
+      <polyline points="1120,515 1125,520 1120,525"/>
+
+  </g>
+
+  <!-- Step 1 -->
+  <g>
+
+      <circle
+          cx="675"
+          cy="520"
+          r="18"
+          fill="#0D1117"
+          stroke="#22D3EE"
+          stroke-width="2"/>
+
+      <text
+          x="675"
+          y="525"
+          text-anchor="middle"
+          dominant-baseline="middle"
+          font-size="10"
+          fill="#22D3EE">
+          D
+      </text>
+
+      <text
+          x="675"
+          y="555"
+          text-anchor="middle"
+          font-size="11"
+          fill="#E6EDF3">
+          Data
+      </text>
+
+  </g>
+
+  <!-- Step 2 -->
+  <g>
+
+      <circle
+          cx="795"
+          cy="520"
+          r="18"
+          fill="#0D1117"
+          stroke="#22D3EE"
+          stroke-width="2"/>
+
+      <text
+          x="795"
+          y="525"
+          text-anchor="middle"
+          dominant-baseline="middle"
+          font-size="10"
+          fill="#22D3EE">
+          P
+      </text>
+
+      <text
+          x="795"
+          y="555"
+          text-anchor="middle"
+          font-size="11"
+          fill="#E6EDF3">
+          Preprocess
+      </text>
+
+  </g>
+
+  <!-- Step 3 -->
+  <g>
+
+      <circle
+          cx="915"
+          cy="520"
+          r="18"
+          fill="#0D1117"
+          stroke="#22D3EE"
+          stroke-width="2"/>
+
+      <text
+          x="915"
+          y="525"
+          text-anchor="middle"
+          dominant-baseline="middle"
+          font-size="10"
+          fill="#22D3EE">
+          F
+      </text>
+
+      <text
+          x="915"
+          y="555"
+          text-anchor="middle"
+          font-size="11"
+          fill="#E6EDF3">
+          Features
+      </text>
+
+  </g>
+
+  <!-- Step 4 -->
+  <g>
+
+      <circle
+          cx="1035"
+          cy="520"
+          r="18"
+          fill="#0D1117"
+          stroke="#22D3EE"
+          stroke-width="2"/>
+
+      <text
+          x="1035"
+          y="525"
+          text-anchor="middle"
+          dominant-baseline="middle"
+          font-size="10"
+          fill="#22D3EE">
+          M
+      </text>
+
+      <text
+          x="1035"
+          y="555"
+          text-anchor="middle"
+          font-size="11"
+          fill="#E6EDF3">
+          Model
+      </text>
+
+  </g>
+
+  <!-- Step 5 -->
+  <g>
+
+      <circle
+          cx="1155"
+          cy="520"
+          r="18"
+          fill="#0D1117"
+          stroke="#7EE787"
+          stroke-width="2.5"/>
+
+      <text
+          x="1155"
+          y="525"
+          text-anchor="middle"
+          dominant-baseline="middle"
+          font-size="10"
+          fill="#7EE787">
+          ✓
+      </text>
+
+      <text
+          x="1155"
+          y="555"
+          text-anchor="middle"
+          font-size="11"
+          fill="#E6EDF3">
+          Evaluation
+      </text>
+        </g>
+    </g>
+</g>
+</g>
+
+</svg>
