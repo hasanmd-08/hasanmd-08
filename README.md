@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="Github-Banner/banner.svg" width="100%" alt="Hasan Mohamed GitHub Banner">
-</p>
-<p align="center">
   <img src="Github-Banner/banner.svg" width="100%" alt="Hasan Mohamed GitHub Banner"/>
 </p>
 
