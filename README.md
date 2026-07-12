@@ -49,6 +49,12 @@ https://github.com/hasanmd-08/student-eda-walkthrough
 
 End-to-end exploratory data analysis on a student performance dataset, uncovering patterns between attendance, study habits, and academic performance through data cleaning, visualization, and statistical analysis.
 
+### 📈 House Price Regression
+**Repository:** 
+https://github.com/hasanmd-08/house-price-regression
+
+My first machine learning model — a Linear Regression model predicting house prices from square footage, bedrooms, age, and location tier, including train/test evaluation and a deep dive into how an outlier skews predictions.
+
 ---
 
 ## 🎯 2026 Goals
