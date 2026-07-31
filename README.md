@@ -45,19 +45,19 @@ I'm building my skills from the ground up—learning the fundamentals, creating 
 ### 📊 Student Performance EDA
 
 **Repository:**
-https://github.com/hasanmd-08/student-eda-walkthrough
+[https://github.com/hasanmd-08/student-eda-walkthrough]
 
 End-to-end exploratory data analysis on a student performance dataset, uncovering patterns between attendance, study habits, and academic performance through data cleaning, visualization, and statistical analysis.
 
 ### 📈 House Price Regression
 **Repository:** 
-https://github.com/hasanmd-08/house-price-regression
+[https://github.com/hasanmd-08/house-price-regression]
 
 My first machine learning model — a Linear Regression model predicting house prices from square footage, bedrooms, age, and location tier, including train/test evaluation and a deep dive into how an outlier skews predictions.
 
 ### 👥 Customer Segmentation using K-Means Clustering
 **Repository:** 
-https://github.com/hasanmd-08/mall-customer-segmentation-kmeans
+[https://github.com/hasanmd-08/hasanmd-08-mall-customer-segmentation-KMeans]
 
 My first unsupervised machine learning project — building a K-Means Clustering model to identify distinct customer segments from annual income and spending behavior, including feature scaling, optimal cluster selection using the Elbow Method, and business-focused interpretation of each segment.
 
