@@ -55,6 +55,12 @@ https://github.com/hasanmd-08/house-price-regression
 
 My first machine learning model — a Linear Regression model predicting house prices from square footage, bedrooms, age, and location tier, including train/test evaluation and a deep dive into how an outlier skews predictions.
 
+### 👥 Customer Segmentation using K-Means Clustering
+**Repository:** 
+https://github.com/hasanmd-08/mall-customer-segmentation-kmeans
+
+My first unsupervised machine learning project — building a K-Means Clustering model to identify distinct customer segments from annual income and spending behavior, including feature scaling, optimal cluster selection using the Elbow Method, and business-focused interpretation of each segment.
+
 ---
 
 ## 🎯 2026 Goals
