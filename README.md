@@ -67,6 +67,13 @@ My first unsupervised machine learning project — building a K-Means Clustering
 
 My supervised machine learning classification project — building and comparing Logistic Regression and Decision Tree models to classify Iris flower species based on sepal and petal measurements, including exploratory data analysis (EDA), model training, performance evaluation using accuracy, confusion matrix, and classification report, decision tree visualization, and prediction on new flower samples.
 
+### 🧠 Handwritten Digit Recognition using Deep Neural Network (Keras)
+**Repository:** 
+[https://github.com/hasanmd-08/mnist-handwritten-digit-recognition-keras]
+
+My first **deep learning** project — building a Deep Neural Network (DNN) using TensorFlow/Keras to recognize handwritten digits (0–9) from the MNIST dataset, including data preprocessing, one-hot encoding, model training with dropout regularization, performance evaluation, and prediction on unseen test images.
+
+
 ---
 
 ## 🎯 2026 Goals
