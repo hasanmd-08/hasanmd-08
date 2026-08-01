@@ -40,7 +40,7 @@ I'm building my skills from the ground up—learning the fundamentals, creating 
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### 📊 Student Performance EDA
 
@@ -60,6 +60,12 @@ My first machine learning model — a Linear Regression model predicting house p
 [https://github.com/hasanmd-08/hasanmd-08-mall-customer-segmentation-KMeans]
 
 My first unsupervised machine learning project — building a K-Means Clustering model to identify distinct customer segments from annual income and spending behavior, including feature scaling, optimal cluster selection using the Elbow Method, and business-focused interpretation of each segment.
+
+### 🌸 Iris Flower Classification using Logistic Regression & Decision Tree  
+**Repository:** 
+[https://github.com/hasanmd-08/iris-species-classification]  
+
+My supervised machine learning classification project — building and comparing Logistic Regression and Decision Tree models to classify Iris flower species based on sepal and petal measurements, including exploratory data analysis (EDA), model training, performance evaluation using accuracy, confusion matrix, and classification report, decision tree visualization, and prediction on new flower samples.
 
 ---
 
