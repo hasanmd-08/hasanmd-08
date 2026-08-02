@@ -73,6 +73,12 @@ My supervised machine learning classification project — building and comparing
 
 My first **deep learning** project — building a Deep Neural Network (DNN) using TensorFlow/Keras to recognize handwritten digits (0–9) from the MNIST dataset, including data preprocessing, one-hot encoding, model training with dropout regularization, performance evaluation, and prediction on unseen test images.
 
+### 🎬 IMDB Movie Review Sentiment Analysis using BiLSTM  
+**Repository:** 
+[https://github.com/hasanmd-08/imdb-sentiment-analysis-deep-learning]
+
+My first Deep Learning Natural Language Processing project — building a Bidirectional LSTM model to classify movie reviews as positive or negative using the IMDB dataset. The project covers complete NLP workflow including text preprocessing, tokenization, sequence padding, word embeddings, model training, evaluation using accuracy, precision, recall, F1-score, confusion matrix analysis, and real-time sentiment prediction on custom reviews.
+
 
 ---
 
