@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HASAN%20MOHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20NLP%20%7C%20Data%20Science&descAlignY=62&descSize=16)](https://github.com/hasanmd-08)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HASAN+MOHAMED&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=ML+Engineer+%7C+Deep+Learning+%7C+NLP+%7C+Data+Science&descAlignY=62&descSize=16)
 
 </div>
 
@@ -84,10 +84,10 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/hasanmd-08">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasanmd-08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasanmd-08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=86400"/>
 </a>
 <a href="https://github.com/hasanmd-08">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmd-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmd-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400"/>
 </a>
 
 </div>
@@ -118,7 +118,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hasanmd-08&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/hasanmd-08)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hasanmd-08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)](https://github.com/hasanmd-08)
 
 </div>
 
@@ -192,19 +192,19 @@ print(me.motto())
 ## 📚 Currently Learning
 
 ```
-🧠 Deep Learning       →  CNN · RNN · LSTM · Transformers · Attention Mechanisms
+🧠 Deep Learning          →  CNN · RNN · LSTM · Transformers · Attention Mechanisms
 🤖 Large Language Models  →  Prompt Engineering · Fine-tuning · RLHF
-🔗 RAG Systems         →  Retrieval-Augmented Generation · Vector Databases
-🤗 Hugging Face        →  Transformers Library · Model Hub · Pipelines
-📦 MLOps               →  Model Deployment · Experiment Tracking · CI/CD for ML
-🐍 Advanced Python     →  OOP · Design Patterns · Performance Optimization
+🔗 RAG Systems            →  Retrieval-Augmented Generation · Vector Databases
+🤗 Hugging Face           →  Transformers Library · Model Hub · Pipelines
+📦 MLOps                  →  Model Deployment · Experiment Tracking · CI/CD for ML
+🐍 Advanced Python        →  OOP · Design Patterns · Performance Optimization
 ```
 
 ---
 
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)](https://github.com/hasanmd-08)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
 
 *"The best way to predict the future is to build it."*
 
