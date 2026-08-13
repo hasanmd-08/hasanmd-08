@@ -209,3 +209,10 @@ print(me.motto())
 *"The best way to predict the future is to build it."*
 
 </div>
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+
+*"The best way to predict the future is to build it."*
+
+</div>
