@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HASAN+MOHAMED&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=ML+Engineer+%7C+Deep+Learning+%7C+NLP+%7C+Data+Science&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HASAN%20MOHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20NLP%20%7C%20Data%20Science&descAlignY=62&descSize=16)
 
 </div>
 
@@ -10,8 +10,8 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=hasanmd-08&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/hasanmd-08)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-mohamed-926230395)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=hasanmd-08&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/hasanmd-08) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-mohamed-926230395) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hasanmd-08)
 
 </div>
@@ -57,24 +57,24 @@ print(me.motto())
 
 **Data Science & Machine Learning**
 
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)&nbsp;
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)&nbsp;
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org)&nbsp;
-[![Seaborn](https://img.shields.io/badge/Seaborn-2E6DA4?style=flat-square&logo=python&logoColor=white)](https://seaborn.pydata.org)&nbsp;
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org) 
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org) 
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org) 
+[![Seaborn](https://img.shields.io/badge/Seaborn-2E6DA4?style=flat-square&logo=python&logoColor=white)](https://seaborn.pydata.org) 
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 
 **Deep Learning**
 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org)&nbsp;
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org) 
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io)
 
 **Tools & Platforms**
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)&nbsp;
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)&nbsp;
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)&nbsp;
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com)&nbsp;
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com) 
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com) 
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org) 
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com)
 
 ---
@@ -127,7 +127,7 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary><b>🤖 Glowlogics — Machine Learning Trainee &nbsp;|&nbsp; Jun 2026 – Present &nbsp;|&nbsp; India</b></summary>
+<summary><b>🤖 Glowlogics &mdash; Machine Learning Trainee &nbsp;|&nbsp; Jun 2026 &ndash; Present &nbsp;|&nbsp; India</b></summary>
 
 <br/>
 
@@ -139,7 +139,7 @@ print(me.motto())
 
 - Enrolled in a **6-month structured ML/AI training program** covering Python, statistics, data analysis, and machine learning from the ground up.
 - Built solid hands-on foundations in **NumPy, Pandas, Matplotlib, and Seaborn** through real data manipulation and visualization tasks.
-- Studied core **AI/ML mathematics** — Gaussian distributions, probability, measures of spread, and statistics underlying model development.
+- Studied core **AI/ML mathematics** &mdash; Gaussian distributions, probability, measures of spread, and statistics underlying model development.
 - Applied training directly to **6 end-to-end projects** spanning clustering, regression, classification, computer vision, and NLP.
 
 </details>
@@ -152,9 +152,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:-----:|:-----------|
-| [**IMDB Sentiment Analysis (BiLSTM)**](https://github.com/hasanmd-08/imdb-sentiment-analysis-deep-learning) | Python · TensorFlow · Keras · NLP | Bidirectional LSTM for binary sentiment classification — **87.33% validation accuracy** using embedding & sequence padding |
+| [**IMDB Sentiment Analysis (BiLSTM)**](https://github.com/hasanmd-08/imdb-sentiment-analysis-deep-learning) | Python · TensorFlow · Keras · NLP | Bidirectional LSTM for binary sentiment classification &mdash; **87.33% validation accuracy** using embedding & sequence padding |
 | [**Mall Customer Segmentation (K-Means)**](https://github.com/hasanmd-08/hasanmd-08-mall-customer-segmentation-KMeans) | Python · scikit-learn · Pandas · Seaborn | Unsupervised clustering to segment customers by spending & income behaviour |
-| [**House Price Prediction (Linear Regression)**](https://github.com/hasanmd-08/house-price-regression) | Python · scikit-learn · Pandas · Matplotlib | End-to-end regression pipeline — data prep, feature analysis, and price prediction |
+| [**House Price Prediction (Linear Regression)**](https://github.com/hasanmd-08/house-price-regression) | Python · scikit-learn · Pandas · Matplotlib | End-to-end regression pipeline &mdash; data prep, feature analysis, and price prediction |
 
 </div>
 
@@ -166,12 +166,12 @@ print(me.motto())
 
 | | Achievement | Details |
 |:---:|:---|:---|
-| 🤖 | **BiLSTM Sentiment Model** | **87.33% validation accuracy** on IMDB dataset — NLP with embedding, padding & Bidirectional LSTM |
+| 🤖 | **BiLSTM Sentiment Model** | **87.33% validation accuracy** on IMDB dataset &mdash; NLP with embedding, padding & Bidirectional LSTM |
 | 📊 | **6 ML/DL Projects** | Full spectrum: EDA · Regression · Classification · Clustering · Computer Vision · NLP |
-| 🎓 | **Glowlogics ML/AI Trainee** | Active in a **6-month structured AI program** (Jun 2026 – Present) |
+| 🎓 | **Glowlogics ML/AI Trainee** | Active in a **6-month structured AI program** (Jun 2026 &ndash; Present) |
 | 🏅 | **SoloLearn Certified** | Python Basic & Python Intermediate certifications |
 | 📓 | **FreeCodeCamp Python Labs** | Caesar Cipher · Budget App · Tower of Hanoi · Polygon Calculator & more |
-| 🌐 | **GitHub Portfolio** | 6+ public repositories — [hasanmd-08](https://github.com/hasanmd-08) |
+| 🌐 | **GitHub Portfolio** | 6+ public repositories &mdash; [hasanmd-08](https://github.com/hasanmd-08) |
 
 </div>
 
@@ -183,7 +183,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |:------:|:-----------:|:----:|:-----:|
-| B.E. Electrical & Electronics Engineering | M.A.M School of Engineering, Tiruchirappalli | 2025 – 2029 | 8.3 / 10 CGPA |
+| B.E. Electrical & Electronics Engineering | M.A.M School of Engineering, Tiruchirappalli | 2025 &ndash; 2029 | 8.3 / 10 CGPA |
 
 </div>
 
@@ -191,28 +191,23 @@ print(me.motto())
 
 ## 📚 Currently Learning
 
-```
-🧠 Deep Learning          →  CNN · RNN · LSTM · Transformers · Attention Mechanisms
-🤖 Large Language Models  →  Prompt Engineering · Fine-tuning · RLHF
-🔗 RAG Systems            →  Retrieval-Augmented Generation · Vector Databases
-🤗 Hugging Face           →  Transformers Library · Model Hub · Pipelines
-📦 MLOps                  →  Model Deployment · Experiment Tracking · CI/CD for ML
-🐍 Advanced Python        →  OOP · Design Patterns · Performance Optimization
-```
+<table>
+<tr><td>🧠 Deep Learning</td><td>CNN · RNN · LSTM · Transformers · Attention Mechanisms</td></tr>
+<tr><td>🤖 Large Language Models</td><td>Prompt Engineering · Fine-tuning · RLHF</td></tr>
+<tr><td>🔗 RAG Systems</td><td>Retrieval-Augmented Generation · Vector Databases</td></tr>
+<tr><td>🤗 Hugging Face</td><td>Transformers Library · Model Hub · Pipelines</td></tr>
+<tr><td>📦 MLOps</td><td>Model Deployment · Experiment Tracking · CI/CD for ML</td></tr>
+<tr><td>🐍 Advanced Python</td><td>OOP · Design Patterns · Performance Optimization</td></tr>
+</table>
 
 ---
 
 <div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
-
-*"The best way to predict the future is to build it."*
-
+<i>"The best way to predict the future is to build it."</i>
 </div>
 
+<div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
-
-*"The best way to predict the future is to build it."*
 
 </div>
