@@ -10,124 +10,33 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=hasanmd-08&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/hasanmd-08) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-mohamed-926230395) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hasanmd-08)
-
 </div>
 
 ---
 
-## 🧠 About Me
+# 💫 About Me:
+🔭 I’m currently working on<br>Explainable AI and machine learning projects, with a focus on building practical, reliable, and interpretable intelligent systems.<br><br>👯 I’m looking to collaborate on<br>Machine Learning, AI, data science, and open-source projects where I can learn, contribute, and build meaningful solutions.<br><br>🤝 I’m looking for help with<br>Improving my ML engineering skills, understanding advanced AI concepts, and turning machine learning models into reliable real-world applications.<br><br>🌱 I’m currently learning<br>Machine Learning, Deep Learning, Explainable AI, MLOps, model deployment, and AI engineering.<br><br>💬 Ask me about<br>Python, Machine Learning, Exploratory Data Analysis, model evaluation, Explainable AI, and my journey of learning by building projects.<br><br>⚡ Fun fact<br>I believe the best way to learn technology is to **learn deeply, build thoughtfully, and share openly.**<br>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class HasanMohamed:
-    def __init__(self):
-        self.name               = "Hasan Mohamed"
-        self.location           = "Tiruchirappalli, Tamil Nadu, India"
-        self.degree             = "B.E. EEE @ M.A.M School of Engineering (2029)"
-        self.stack              = [
-                                    "Python", "TensorFlow", "Keras",
-                                    "scikit-learn", "NumPy", "Pandas"
-                                  ]
-        self.currently_learning = [
-                                    "Deep Learning", "LLMs",
-                                    "RAG", "Hugging Face"
-                                  ]
-        self.fun_fact           = "EEE student — but the only circuits I design are neural"
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/hasan-mohamed-/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@hasan.huraira704) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasan.huraira704@gmail.com) 
 
-    def motto(self):
-        return "Build. Break. Learn. Repeat."
+# 💻 Tech Stack:
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hasanmd-08&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=hasanmd-08&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hasanmd-08&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-me = HasanMohamed()
-print(me.motto())
-```
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-
-**Data Science & Machine Learning**
-
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org) 
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org) 
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org) 
-[![Seaborn](https://img.shields.io/badge/Seaborn-2E6DA4?style=flat-square&logo=python&logoColor=white)](https://seaborn.pydata.org) 
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
-
-**Deep Learning**
-
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org) 
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io)
-
-**Tools & Platforms**
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com) 
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com) 
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org) 
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/hasanmd-08">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasanmd-08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=86400"/>
-</a>
-<a href="https://github.com/hasanmd-08">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmd-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400"/>
-</a>
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hasanmd-08&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/hasanmd-08)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasanmd-08&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/hasanmd-08)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hasanmd-08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)](https://github.com/hasanmd-08)
-
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 
 ## 💼 Work Experience
 
 <details>
-<summary><b>🤖 Glowlogics &mdash; Machine Learning Trainee &nbsp;|&nbsp; Jun 2026 &ndash; Present &nbsp;|&nbsp; India</b></summary>
+<summary><b>🤖 Glowlogics &mdash; Machine Learning Trainee &nbsp;|&nbsp; Jun 2026 &ndash; Aug 2026 &nbsp;|&nbsp; India</b></summary>
 
 <br/>
 
@@ -150,11 +59,12 @@ print(me.motto())
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|:--------|:-----:|:-----------|
-| [**IMDB Sentiment Analysis (BiLSTM)**](https://github.com/hasanmd-08/imdb-sentiment-analysis-deep-learning) | Python · TensorFlow · Keras · NLP | Bidirectional LSTM for binary sentiment classification &mdash; **87.33% validation accuracy** using embedding & sequence padding |
-| [**Mall Customer Segmentation (K-Means)**](https://github.com/hasanmd-08/hasanmd-08-mall-customer-segmentation-KMeans) | Python · scikit-learn · Pandas · Seaborn | Unsupervised clustering to segment customers by spending & income behaviour |
-| [**House Price Prediction (Linear Regression)**](https://github.com/hasanmd-08/house-price-regression) | Python · scikit-learn · Pandas · Matplotlib | End-to-end regression pipeline &mdash; data prep, feature analysis, and price prediction |
+| Project                                                                                                                |                          Stack                         | Highlights                                                                                                                                                   |
+| :--------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Explainable Bank Fraud Detection**](https://github.com/hasanmd-08/explainable-bank-fraud-detection)                 | Python · XGBoost · SHAP · Streamlit · FastAPI · Docker | End-to-end **explainable fraud detection system** — cost-sensitive XGBoost, SHAP explanations, REST API, interactive Streamlit dashboard & Docker deployment |
+| [**IMDB Sentiment Analysis (BiLSTM)**](https://github.com/hasanmd-08/imdb-sentiment-analysis-deep-learning)            |            Python · TensorFlow · Keras · NLP           | Bidirectional LSTM for binary sentiment classification — **87.33% validation accuracy** using embedding & sequence padding                                   |
+| [**Mall Customer Segmentation (K-Means)**](https://github.com/hasanmd-08/hasanmd-08-mall-customer-segmentation-KMeans) |        Python · scikit-learn · Pandas · Seaborn        | Unsupervised clustering to segment customers by spending & income behaviour                                                                                  |
+| [**House Price Prediction (Linear Regression)**](https://github.com/hasanmd-08/house-price-regression)                 |       Python · scikit-learn · Pandas · Matplotlib      | End-to-end regression pipeline — data preparation, feature analysis, and price prediction                                                                    |
 
 </div>
 
@@ -164,28 +74,18 @@ print(me.motto())
 
 <div align="center">
 
-| | Achievement | Details |
-|:---:|:---|:---|
-| 🤖 | **BiLSTM Sentiment Model** | **87.33% validation accuracy** on IMDB dataset &mdash; NLP with embedding, padding & Bidirectional LSTM |
-| 📊 | **6 ML/DL Projects** | Full spectrum: EDA · Regression · Classification · Clustering · Computer Vision · NLP |
-| 🎓 | **Glowlogics ML/AI Trainee** | Active in a **6-month structured AI program** (Jun 2026 &ndash; Present) |
-| 🏅 | **SoloLearn Certified** | Python Basic & Python Intermediate certifications |
-| 📓 | **FreeCodeCamp Python Labs** | Caesar Cipher · Budget App · Tower of Hanoi · Polygon Calculator & more |
-| 🌐 | **GitHub Portfolio** | 6+ public repositories &mdash; [hasanmd-08](https://github.com/hasanmd-08) |
+|     | Achievement                          | Details                                                                                                                                                                      |
+| :-: | :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  🏦 | **Explainable Bank Fraud Detection** | End-to-end ML system using **XGBoost + SHAP + FastAPI + Streamlit + Docker** with **96.05% precision, 76.84% recall & 0.9763 ROC-AUC** at the selected application threshold |
+|  🤖 | **BiLSTM Sentiment Model**           | **87.33% validation accuracy** on the IMDB dataset — NLP with embedding, padding & Bidirectional LSTM                                                                        |
+|  📊 | **7 ML/DL Projects**                 | Full spectrum: EDA · Regression · Classification · Clustering · Computer Vision · NLP · Explainable AI                                                                       |
+|  🎓 | **Glowlogics ML/AI Trainee**         | Active in a **6-month structured AI program** (Jun 2026 – Present)                                                                                                           |
+|  🏅 | **SoloLearn Certified**              | Python Basic & Python Intermediate certifications                                                                                                                            |
+|  📓 | **FreeCodeCamp Python Labs**         | Caesar Cipher · Budget App · Tower of Hanoi · Polygon Calculator & more                                                                                                      |
+|  🌐 | **GitHub Portfolio**                 | 7+ public repositories — [hasanmd-08](https://github.com/hasanmd-08)                                                                                                         |
 
 </div>
 
----
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|:------:|:-----------:|:----:|:-----:|
-| B.E. Electrical & Electronics Engineering | M.A.M School of Engineering, Tiruchirappalli | 2025 &ndash; 2029 | 8.3 / 10 CGPA |
-
-</div>
 
 ---
 
