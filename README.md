@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HASAN%20MOHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20NLP%20%7C%20Data%20Science&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👋%20I'M,%20HASAN%20MOHAMED&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20NLP%20%7C%20Data%20Science&descAlignY=62&descSize=16)
 
 </div>
 
@@ -14,8 +14,10 @@
 
 ---
 
+<div align="center">
+
 # 💫 About Me:
-🔭 I’m currently working on<br>Explainable AI and machine learning projects, with a focus on building practical, reliable, and interpretable intelligent systems.<br><br>👯 I’m looking to collaborate on<br>Machine Learning, AI, data science, and open-source projects where I can learn, contribute, and build meaningful solutions.<br><br>🤝 I’m looking for help with<br>Improving my ML engineering skills, understanding advanced AI concepts, and turning machine learning models into reliable real-world applications.<br><br>🌱 I’m currently learning<br>Machine Learning, Deep Learning, Explainable AI, MLOps, model deployment, and AI engineering.<br><br>💬 Ask me about<br>Python, Machine Learning, Exploratory Data Analysis, model evaluation, Explainable AI, and my journey of learning by building projects.<br><br>⚡ Fun fact<br>I believe the best way to learn technology is to **learn deeply, build thoughtfully, and share openly.**<br>
+#### 🔭 I’m currently working on Explainable AI and machine learning projects, with a focus on building practical, reliable, and interpretable intelligent systems.<br><br>👯 I’m looking to collaborate on Machine Learning, AI, data science, and open-source projects where I can learn, contribute, and build meaningful solutions.<br><br>🤝 I’m looking for help with Improving my ML engineering skills, understanding advanced AI concepts, and turning machine learning models into reliable real-world applications.<br><br>💬 Ask me about Python, Machine Learning, Exploratory Data Analysis, model evaluation, Explainable AI, and my journey of learning by building projects.<br><br>⚡ Fun fact : I believe the best way to learn technology is to **learn deeply, build thoughtfully, and share openly.**<br>
 
 
 ## 🌐 Socials:
